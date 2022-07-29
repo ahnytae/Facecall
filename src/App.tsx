@@ -1,5 +1,12 @@
+import Router from './Router';
+
 function App() {
-  return <div className="App">HELLOasdfdfddfdasf233312</div>;
+  return (
+    <>
+      <p>..</p>
+      {Router()}
+    </>
+  );
 }
 
 export default App;

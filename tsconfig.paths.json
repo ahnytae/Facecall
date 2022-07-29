@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
     "baseUrl": ".",
-    // import path ..
     "paths": {
       "@src/*": ["src/*"],
       "@components/*": ["src/components/*"],
-      "@common/*": ["src/common/*"]
+      "@common/*": ["src/common/*"],
+      "@pages/*": ["src/pages/*"]
     }
   }
 }
