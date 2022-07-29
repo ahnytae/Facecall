@@ -12,3 +12,7 @@ yarn version: 3.2.2 이며, eslint, airbnb, prettier 까지 적용 되었습니�
 
 - Typescript v4.74
 - React v18 (CRA)
+
+## path alias 설정
+
+- tsconfig.paths.json 내에 path: {} 추가
